@@ -1,0 +1,75 @@
+.font-change {
+    font-family:  Tahoma;
+    font-weight: bold;
+}
+
+.title-text {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 2px;
+}
+
+.sale-description {
+    font-family: Arial;
+    color: red;
+    font-style: italic;
+    margin-top: 0px;
+}
+
+.verdana-title {
+    font-family: Verdana;
+    font-size: 18px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.verdana-caption {
+    font-family: Verdana;
+    font-size: 15px; 
+    margin-top: 0px;
+    color: grey;
+}
+
+.course-description {
+    font-family: Verdana;
+    font-size: 14px;
+    width: 260px;
+}
+
+.start-button {
+    background-color: green;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+.question-text {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.recom-text {
+    font-family: Arial;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.hyperlink-text {
+    color: rgb(34, 147, 228);
+    text-align: center;
+    margin-top: 0px;
+    cursor: pointer;
+}
+
+.hyperlink-text:hover {
+    text-decoration: underline;
+}
