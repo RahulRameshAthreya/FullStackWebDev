@@ -1,0 +1,9 @@
+.outer-box {
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    border-width: 2px;
+    justify-content:space-between;
+    align-items: center;
+    height: 100px;
+}
